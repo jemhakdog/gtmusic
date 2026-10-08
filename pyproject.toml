@@ -1,0 +1,9 @@
+[project]
+name = "gtmusic-sim-server"
+version = "0.1.0"
+description = "Local dev server for Cernodile's Growtopia Music Simulator"
+requires-python = ">=3.10"
+dependencies = ["flask>=3.0"]
+
+[tool.uv]
+package = false
