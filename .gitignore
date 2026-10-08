@@ -20,3 +20,6 @@ var/
 .DS_Store
 .idea/
 .vscode/
+
+# Nested repo: GTMusicSim is its own GitHub repo
+/GTMusicSim/
